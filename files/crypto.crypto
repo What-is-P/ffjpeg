@@ -1,0 +1,12 @@
+if bitcoin.wwc = false
+
+gen bitcoin.wwc = true
+generate bitcoin.wwc = true
+min bitcoin.wwc = true
+mine bitcoin.wwc = true
+
+wwc.level = non
+wwc.level = none
+
+format = cry
+format = crypto
